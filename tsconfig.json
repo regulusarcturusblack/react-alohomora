@@ -8,7 +8,6 @@
     ".fttemplates"
   ],
   "compilerOptions": {
-    "baseUrl": "src",
     "module": "esnext",
     "lib": ["dom", "esnext"],
     "importHelpers": true,
